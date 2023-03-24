@@ -5,4 +5,6 @@ int array[20];
 int n;
 
 void input() {
+	while (true) {
+	}
 }
